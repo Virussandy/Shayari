@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/ic_home"/>
+
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profile"
+            android:icon="@drawable/ic_profile"/>
+
+        <item
+            android:id="@+id/nav_fees"
+            android:title="Fees"
+            android:icon="@drawable/ic_fees"/>
+
+        <item
+            android:id="@+id/nav_settings"
+            android:title="Settings"
+            android:icon="@drawable/ic_settings"/>
+    </group>
+
+    <item
+        android:id="@+id/subtitle"
+        android:title="Others">
+        <menu>
+            <group
+                android:id="@+id/group2"
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_logout"
+                    android:title="Logout"
+                    android:icon="@drawable/ic_logout"/>
+
+                <item
+                    android:id="@+id/nav_share_app"
+                    android:title="Share App"
+                    android:icon="@drawable/ic_share"/>
+
+                <item
+                    android:id="@+id/nav_rate_us"
+                    android:title="Rate Us"
+                    android:icon="@drawable/ic_rate_us"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>

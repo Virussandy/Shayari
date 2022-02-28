@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "656874626480",
+    "firebase_url": "https://shayari-ef911-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shayari-ef911",
+    "storage_bucket": "shayari-ef911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656874626480:android:45c82cd95935b389880a75",
+        "android_client_info": {
+          "package_name": "com.sandy.shayari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656874626480-q4u0jkdpd0ppcrqum121qtpribbkghb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandy.shayari",
+            "certificate_hash": "807dfd7441a5dc772608f811952ef992d18abb7a"
+          }
+        },
+        {
+          "client_id": "656874626480-t2pulb7qebj89l4l2c39joo83ckjsg0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandy.shayari",
+            "certificate_hash": "5b90f7d537328b3d85d66d40ac868ef871e1a665"
+          }
+        },
+        {
+          "client_id": "656874626480-2sojuik5v6a0c8ij0u1v49v3qq70uulo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD392o2nlPauFUA2FCqLxY6gOosa5JC2LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656874626480-2sojuik5v6a0c8ij0u1v49v3qq70uulo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656874626480:android:59d58fec1f4fda35880a75",
+        "android_client_info": {
+          "package_name": "com.sandy.shayariadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656874626480-svj9d8shig7j9h3152luoe8p54u8hvek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandy.shayariadmin",
+            "certificate_hash": "5b90f7d537328b3d85d66d40ac868ef871e1a665"
+          }
+        },
+        {
+          "client_id": "656874626480-2sojuik5v6a0c8ij0u1v49v3qq70uulo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD392o2nlPauFUA2FCqLxY6gOosa5JC2LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656874626480-2sojuik5v6a0c8ij0u1v49v3qq70uulo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
